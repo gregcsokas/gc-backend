@@ -1,0 +1,9 @@
+celery
+Django
+django-celery-results
+django-celery-beat
+djangorestframework
+martor
+psycopg2-binary
+pytest
+pytest-django
